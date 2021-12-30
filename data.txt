@@ -1,0 +1,7 @@
+Id   Name   Fees
+301  Fezz  1800
+206  Kin  1500
+504  Ablet  2200
+528  Martin  1300
+183  Poul  2900
+192  Lucy  1900
